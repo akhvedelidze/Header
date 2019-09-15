@@ -1,0 +1,19 @@
+span {
+    display: inline-table;
+  width: 180px;
+
+  }
+
+  div1 {
+    display: inline-table;
+    
+    width: 380px;
+   }
+
+
+  div2 {
+    display: inline-table;
+  width: 180px;
+  align-content: flex-end
+  
+  }
